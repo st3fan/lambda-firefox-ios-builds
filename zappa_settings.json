@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-west-2",
+        "profile_name": "default",
+        "keep_warm": false,
+        "s3_bucket": "zappa-01q6k4hau",
+        "domain": "builds.moo.mx",
+        "lets_encrypt_key": "lets_encrypt.key"
+    }
+}
